@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> I'm Alexandre.</h1>
 <p align="center"><br/>
+  <a href="">
+    <img alt="Visitor Badges" src="https://visitor-badge.laobi.icu/badge?page_id=alexandregravelle.alexandregravelle">
+  </a>
   <a href="https://www.linkedin.com/in/alexandre-gravelle/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedIn">
   </a>
