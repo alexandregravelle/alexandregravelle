@@ -1,4 +1,4 @@
-![Beige Simple Elegant Personal LinkedIn Banner-5](https://github.com/alexandregravelle/alexandregravelle/assets/22453190/a79211fc-53f2-46e9-8af7-10512ffd107a)
+![LinkedIn Banner](https://github.com/user-attachments/assets/c6b36c23-3089-43d5-a2fe-bcb541bfc153)
 
 <h1 align="center">Hi! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> I'm Alexandre.</h1>
 <p align="center"><br/>
