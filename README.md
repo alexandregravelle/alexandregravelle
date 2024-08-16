@@ -31,4 +31,4 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📚 Currently reading
-* [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
+* [Original Love: The Four Inns on the Path of Awakening](https://www.goodreads.com/book/show/199544680-original-love)
